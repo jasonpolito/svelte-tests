@@ -27,6 +27,8 @@
 		spent = total - left;
 	}
 
+	console.log('spent', spent);
+
 	export const prerender = true;
 </script>
 
